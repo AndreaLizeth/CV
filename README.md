@@ -1,1 +1,7 @@
 # CV
+## DATOS PERSONALES
+
+## FORMACIÓN
+
+
+##IDIOMAS
