@@ -6,3 +6,4 @@ https://github.com/AndreaLizeth/CVTopicos/issues/2#issue-677377170
 https://github.com/AndreaLizeth/CVTopicos/issues/3#issue-677377621
 
 ## IDIOMAS
+https://github.com/AndreaLizeth/CVTopicos/issues/4#issue-677377925
